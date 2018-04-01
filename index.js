@@ -1,1 +1,3 @@
-parseInt('2', 10)
+function add(a, b) {
+  return(1+2)
+}
